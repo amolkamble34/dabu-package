@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dabu\\Service\\MintServiceProvider"
+                "Dabu\\Service\\DabuServiceProvider"
             ]
         }
     }
