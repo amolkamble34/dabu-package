@@ -15,5 +15,12 @@
         "psr-4": {
             "Dabu\\Service\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dabu\\Service\\MintServiceProvider"
+            ]
+        }
     }
 }
