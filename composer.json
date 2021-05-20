@@ -1,0 +1,19 @@
+{
+    "name": "dabu/service",
+    "description": "Basic service provider",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dabu",
+            "email": "dabu@dabu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dabu\\Service\\": "src/"
+        }
+    }
+}
